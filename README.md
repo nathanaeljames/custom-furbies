@@ -1,5 +1,5 @@
 # custom-furbies
-Laravel 8 site demonstrating Create, Read, Update, Delete (CRUD) functionality, database migrations, Vue authentication. The app is built using XAMPP, Composer, and Artisan on Ubuntu Docker.
+Laravel 8 app demonstrating Create, Read, Update, Delete (CRUD) functionality, database migrations, Vue authentication, and Model View Controller (MVC) architecture. The app is built using XAMPP, Composer, and Artisan on Ubuntu Docker.
 
 ### Any visitor to the site can:
 * Browse through the inventory of existing furbies
